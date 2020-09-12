@@ -1,3 +1,7 @@
+# Script to send by e-mail your public ip using a gmail account.
+# Author: Samuel Martins <samuel@samuelmartins.com.br>
+# MIT License
+
 import smtplib
 from requests import get
 
